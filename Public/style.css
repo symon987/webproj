@@ -1,0 +1,125 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: auto;
+   
+}
+
+.firstitem { background-color: rgb(95, 93, 97);
+    display: flex;
+    height: 75px;
+    width: 100%;
+    justify-content: center;
+
+   
+}
+.bone { padding: 30px;
+    border-radius: 10px;
+     border-style: none;
+     
+
+
+}
+.btwo {padding: 30px;
+    border-radius: 10px;
+     border-style: none;
+}
+.bthree { padding: 30px;
+    border-radius: 10px;
+     border-style: none;
+
+}
+.bfour { padding: 30px;
+    border-radius: 10px;
+     border-style: none;
+
+}
+
+
+.seconditem { background-color: aqua;
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+.thirditem {
+    align-self: flex-start;
+     background-color: rgb(144, 139, 139);
+     border-top-left-radius: 100px;
+     border-top-right-radius: 100px;
+     
+}
+
+.fourthitem {
+     background-color: rgb(144, 139, 139);
+     
+     align-items: center;
+     box-sizing: border-box;
+     width: 1150px;
+}
+
+.fifthitem {
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(144, 139, 139);
+    width: 1150px;
+
+}
+
+.connection_container{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    overflow-x: scroll;
+    
+}
+.CJ { text-align: center;
+    background-color: rgb(81, 79, 79);
+    border-radius: 10px;
+}
+
+.ADI { text-align: center;
+    background-color: rgb(81, 79, 79);
+    border-radius: 10px;
+}
+
+.ADRIEL {
+    text-align: center;
+    background-color: rgb(81, 79, 79);
+    border-radius: 10px;
+}
+
+.CHANTAL{
+    text-align: center;
+    background-color: rgb(81, 79, 79);
+    border-radius: 10px;
+}
+
+.JAYLORD {
+    text-align: center;
+    background-color: rgb(81, 79, 79);
+    border-radius: 10px;
+}
+
+.ALIA {
+    text-align: center;
+    background-color: rgb(81, 79, 79);
+    border-radius: 10px;
+}
+
+.schools { 
+    display: flex;
+    flex-direction: row;
+    
+}
+.aboutschool1 {
+    width: 50px;
+    margin-right: 150px;
+}
+
+.aboutschool2 {
+    margin-left: 30px;
+    width: 50px;
+}
